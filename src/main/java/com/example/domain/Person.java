@@ -16,6 +16,8 @@ public class Person {
     private String surname;
     private Integer age;
 
+    //PRUEBA
+
     // Just to test the new LocalDate with JPA
     private LocalDate birthday;
 
